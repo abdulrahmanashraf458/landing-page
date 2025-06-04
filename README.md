@@ -1,7 +1,3 @@
-# Project Bolt
-
-A beautiful Next.js application with the Spotlight animation effect.
-
 ## Getting Started
 
 First, install the dependencies:
